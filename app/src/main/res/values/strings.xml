@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TugasDicodingAndroidPemula</string>
+    <string name="heroes_name">Nama Tokoh AgamaIslam</string>
+    <string name="detail">Detail</string>
+    <string name="About">about</string>
+    <string name="list">List Nama Nama Ustad</string>
+
+    <string name="aboutDeveloper"> \n\n Nama : Misbah Bagaskara Purwanto \n\n
+    Email: misbahbagaskarapurwanto12@gmail.com \n\n
+
+    Alamat:Depok \n\n
+    Alasan Membuat Aplikasi: saya membuat aplikasi ini agar memudahkan orang orang untuk mengetahui Tokoh atau Syekh Atau Ustad Dalam Agama Islam</string>
+
+    <string-array name="NamaSiswa8D">
+        <item>1. Abdul Somad</item>
+        <item>2. Khalid Basalamah</item>
+        <item>3. syafiqrizabasalamah</item>
+        <item>4. Zakir Naik</item>
+        <item>5. syekh utsaimin</item>
+        <item>6. syekh Ali Jaber</item>
+        <item>7. Adi Hidayat</item>
+        <item>8. ustadz hanan attaki</item>
+        <item>9. syekh sudais</item>
+        <item>10. abdul basit</item>
+
+
+    </string-array>
+
+
+    <string name="aSomad"> Abdul Somad </string>
+    <string name="aSomadDes">Nama : Abdul Somad \n\n
+    negara : indonesia \n\n
+    </string>
+
+    <string name="aKhalid"> Khalid Basalamah </string>
+    <string name="aKhalidDes">Nama : Khalid Basalamah \n\n
+    Negara : indonesia \n\n
+  </string>
+
+    <string name="aSyafiq">syafiqrizabasalamah </string>
+    <string name="aSyafiqDes">Nama : syafiqrizabasalamah \n\n
+    negara  : Indonesia \n\n
+    </string>
+
+    <string name="aZakir"> Zakir Naik </string>
+    <string name="aZakirDes">Nama : Zakir Naik \n\n
+    Negara  : India \n\n
+   </string>
+
+    <string name="aUtsaimin"> syekh utsaimin </string>
+    <string name="aUtsaiminDes">Nama : syekh utsaimin \n\n
+     kota    : Unaizah \n\n
+   </string>
+
+
+    <string name="aAliJaber"> syekh Ali Jaber </string>
+    <string name="aAliJaberDes">Nama : syekh Ali Jaber \n\n
+    berkewarganegaraan : Indonesia \n\n
+   </string>
+
+
+    <string name="aAdiHidayat"> Adi Hidayat </string>
+    <string name="aAdiHidayatDes">Nama : Adi Hidayat \n\n
+    Negara : Indonesia\n\n
+    </string>
+
+    <string name="aHananAttaki"> hanan attaki </string>
+    <string name="aHananAttakiDes">Nama : hanan attaki \n\n
+    Negara : Indonesia \n\n
+    </string>
+
+    <string name="aSudais"> syekh sudais </string>
+    <string name="aSudaisDes">Nama : syekh sudais \n\n
+    Imam dan Khatib : Masjidil Haram \n\n
+    </string>
+
+    <string name="aAbdulBasit"> AbdulBasit </string>
+    <string name="aAbdulBasitDes">Nama : AbdulBasit\n\n
+    Negara : Mesir \n\n
+   </string>
+
+
+
+
+</resources>
