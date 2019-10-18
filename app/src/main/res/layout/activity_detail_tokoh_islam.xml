@@ -48,5 +48,16 @@
         app:layout_constraintTop_toBottomOf="@+id/tvNamaTokoh"
         tools:ignore="RtlCompat"
         android:layout_marginRight="8dp" />
+    
+    <TextView
+              android:id="@+id/Makasih"
+              android:layout_width="0dp"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="16dp"
+              android:layout_marginTop="4dp"
+              android:layout_marginEnd="8dp"
+              android:text="makasih" />
+              
+       
 
 </android.support.constraint.ConstraintLayout>
